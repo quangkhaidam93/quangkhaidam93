@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://khai-github-readme-stats.vercel.app/api?username=quangkhaidam93&&orgs=beautifulvoice&count_private=true&theme=tokyonight" alt="GitHub stats" height="195" align="middle" />
+    <img src="https://khai-github-readme-stats.vercel.app/api?username=quangkhaidam93&orgs=beautifulvoice&count_private=true&theme=tokyonight" alt="GitHub stats" height="195" align="middle" />
   </a>
   <img src="https://raw.githubusercontent.com/manoloesparta/manoloesparta/main/blank.png" width="20" height="10" align="middle" alt="spacer" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
